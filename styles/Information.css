@@ -1,0 +1,31 @@
+body {
+    font-family: 'Edu SA Beginner', cursive;
+    background-image: url("https://i0.wp.com/www.csscodelab.com/wp-content/uploads/2020/03/html-gradient-background-css.png?fit=993%2C649&ssl=1");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Patrick {
+    display: flex;
+    justify-content: center;
+}
+
+.company {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    background-color: #efff75;
+    border: 4px solid black;
+    font-size: 40px;
+}
+
+form {
+    color: #057bfa;
+    width: fit-content;
+    margin-left: 600px;
+    margin-top: 50px;
+    font-size: 20px;
+}
